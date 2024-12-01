@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1099324190379",
+    "project_id": "voiceassistantapp-a253f",
+    "storage_bucket": "voiceassistantapp-a253f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099324190379:android:62017947e5c1489da311ee",
+        "android_client_info": {
+          "package_name": "com.app.voiceassistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnRPV_0wrxfxgtJ0KfDlvcQ6wydrkbBL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
