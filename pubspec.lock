@@ -36,7 +36,7 @@ packages:
   azure_speech_recognition_null_safety:
     dependency: "direct main"
     description:
-      path: azure_speech_recognition_null_safety-main
+      path: azure_speech_recognition
       relative: true
     source: path
     version: "0.9.5"

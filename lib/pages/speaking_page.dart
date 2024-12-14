@@ -150,7 +150,6 @@ class _SpeakNowState extends State<SpeakNow> with TickerProviderStateMixin {
     AzureSpeechRecognition.continuousRecording();
   }
 
-
     initAzure() async{
       await Future.delayed(Duration(milliseconds: 200));
 
